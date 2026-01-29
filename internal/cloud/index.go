@@ -9,7 +9,7 @@ import (
 	drouting "github.com/libp2p/go-libp2p/p2p/discovery/routing"
 	dutil "github.com/libp2p/go-libp2p/p2p/discovery/util"
 
-	"github.com/p2papp/internal/core"
+	"p2papp/internal/core"
 )
 
 const (

@@ -12,10 +12,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/p2papp/internal/chat"
-	"github.com/p2papp/internal/cloud"
-	"github.com/p2papp/internal/core"
-	"github.com/p2papp/internal/wallet"
+	"p2papp/internal/chat"
+	"p2papp/internal/cloud"
+	"p2papp/internal/core"
+	"p2papp/internal/wallet"
 )
 
 var (

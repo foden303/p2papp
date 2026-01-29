@@ -5,7 +5,7 @@ import (
 
 	pubsub "github.com/libp2p/go-libp2p-pubsub"
 
-	"github.com/p2papp/internal/core"
+	"p2papp/internal/core"
 )
 
 // PubSubManager manages GossipSub topics
